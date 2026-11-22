@@ -9,7 +9,7 @@ https://message-spam-detection.streamlit.app/
 
 ## Internship Certificate
 
-[📄 View Certificate](VAISHNAVI SUHAS JAGTAP_certificate-2.pdf)
+([View Certificate](https://github.com/VaishnaviJagtap18/sms_spam_detection-app/blob/main/VAISHNAVI%20SUHAS%20JAGTAP_certificate-2.pdf))
 
 ---
 ## 📂 Project Structure 
