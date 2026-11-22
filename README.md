@@ -9,7 +9,7 @@ https://message-spam-detection.streamlit.app/
 
 ## Internship Certificate
 
-[📄 View Certificate](C:\Users\Dell\Downloads\VAISHNAVI SUHAS JAGTAP_certificate-2.pdf)
+[📄 View Certificate](VAISHNAVI SUHAS JAGTAP_certificate-2.pdf)
 
 ---
 ## 📂 Project Structure 
