@@ -7,6 +7,10 @@ A trained ML model is deployed using **Streamlit** for interactive prediction.
 ## 🚀 Live Demo
 https://message-spam-detection.streamlit.app/
 
+## Internship Certificate
+
+[📄 View Certificate](file:///C:/Users/Dell/Downloads/VAISHNAVI%20SUHAS%20JAGTAP_certificate-2.pdf)
+
 ---
 ## 📂 Project Structure 
 
